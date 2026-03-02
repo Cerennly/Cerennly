@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceren Ağım</h1>
-<h3 align="center">I am a software developer  </h3>
+<h3 align="center">I am an Agent Engineering/Data </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerennly&label=Profile%20views&color=0e75b6&style=flat" alt="cerennly" /> </p>
 
